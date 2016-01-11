@@ -1,0 +1,52 @@
+http://pythonwise.blogspot.cz/2015/01/python-m.html
+https://groups.google.com/d/topic/comp.lang.python/_QLuMFfSLKk/discussion
+
+
+
+json.tool
+zipfile
+gzip
+filecmp
+base64
+uu
+encodings.rot_13
+binhex
+mimify
+quopri
+SimpleHTTPServer, CGIHTTPServer and smtpd
+ftplib
+poplib
+nttpserver
+smtplib (on localhost only)
+telnetlib
+mimetypes
+markdown
+
+
+compileall will compile all Python files to .pyc
+dis will show bytecode for a file
+pdb will start the Python debugger on a given file (see here)
+pydoc will show documentation on a module/class/function
+site will print some site information (sys.path, USER_BASE ...)
+sysconfig will show many system related information (such as exec_prefix)
+tabnanny will tell you of you mix tabs and spaces (like starting python with -t or -tt)
+tokenize will print list of tokens in Python file
+
+pydoc os.path.join
+
+
+cProfile - Show profile information
+profile (use cProfile :)
+timeit - Time how long things run
+pstats - Print output of profiles
+trace - Show tracing information on run
+
+calendar 2015 1
+python -me os vim
+
+PIP:
+pytube
+tacit	It provides an useful function which lets you read lines from the end (like cat and tac)
+copypaste	Platform independent copy + paste library for Python
+pyinotify	Linux filesystem events monitoring
+sigal	Simple static gallery generator

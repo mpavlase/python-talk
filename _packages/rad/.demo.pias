@@ -1,0 +1,221 @@
+{
+  "events": [
+    {
+      "act": "OPEN", 
+      "size": [
+        80, 
+        24
+      ], 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.13050198554992676
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r", 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.01731276512145996
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[36m.\u001b[0m\u001b[36m-\u001b[1m\u001b[30m(\u001b[1m\u001b[32m~/prace/documents/python-cli-pip-talk/_packages/rad\u001b[1m\u001b[30m)\u001b[0m\u001b[36m----\u001b[1m\u001b[30m(\u001b[1m\u001b[33mvenv\u001b[1m\u001b[30m)\u001b[0m\u001b[36m--\u001b[1m\u001b[37m\u07c2 master\u001b[0m\u001b[36m-----\r\n\r\u001b[1m\u001b[36m`-\u001b[0m\u001b[36m-\u001b[1m\u001b[37m\u001b[1m\u001b[37m> \u001b[0m\u001b[39m\u001b[49m\u001b[K", 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }, 
+    {
+      "act": "READ", 
+      "data": "r", 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mr", 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }, 
+    {
+      "act": "READ", 
+      "data": "a", 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[1m\u001b[37mr\u001b[1m\u001b[37ma", 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }, 
+    {
+      "act": "READ", 
+      "data": "d", 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37md", 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }, 
+    {
+      "act": "READ", 
+      "data": "-", 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m-", 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }, 
+    {
+      "act": "READ", 
+      "data": "n", 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mn", 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[0m\u001b[39m\r\r\n", 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.2240149974822998
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Colorer name for this rule: ", 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "hex", 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\nPattern to match: ", 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "[0-9a-f]", 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\nForeground color [white]: ", 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "white", 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\nBackground color [black]: ", 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "red", 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\nStyle [bright]: ", 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "normal", 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.021712064743041992
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r", 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0060579776763916016
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[36m.\u001b[0m\u001b[36m-\u001b[1m\u001b[30m(\u001b[1m\u001b[32m~/prace/documents/python-cli-pip-talk/_packages/rad\u001b[1m\u001b[30m)\u001b[0m\u001b[36m----\u001b[1m\u001b[30m(\u001b[1m\u001b[33mvenv\u001b[1m\u001b[30m)\u001b[0m\u001b[36m--\u001b[1m\u001b[37m\u07c2 master\u001b[0m\u001b[36m-----\r\n\r\u001b[1m\u001b[36m`-\u001b[0m\u001b[36m-\u001b[1m\u001b[37m\u001b[1m\u001b[37m> \u001b[0m\u001b[39m\u001b[49m\u001b[K", 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u0004", 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\r\n", 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.10511302947998047
+    }, 
+    {
+      "act": "CLOSE", 
+      "term": "0513e305be1a407392d9a8761022cab7"
+    }
+  ], 
+  "shell": "/bin/zsh"
+}

@@ -1,0 +1,34 @@
+<html>
+   <head>
+      <title>The jQuery Example</title>
+      <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+        
+      <script type="text/javascript" language="javascript">
+         $(document).ready(function() {
+            $("#firma").click(function(event){
+               $.getJSON('conocesFirma.json', function(jd) {
+                  $('#stage').html('<p> Name: ' + jd.idempr + '</p>');
+                  $('#stage').append('<p>Age : ' + jd.tipoPers+ '</p>');
+                  $('#stage').append('<p> Sex: ' + jd.codPers+ '</p>');
+                  $('#stage').append('<p> Sex: ' + jd.usuariCheck+ '</p>');
+                  $('#stage').append('<p> Sex: ' + jd.idCheck+ '</p>');
+                  $('#stage').append('<p> Sex: ' + jd.idFicha+ '</p>');
+               });
+            });
+         });
+      </script>
+   </head>
+    
+   <body>
+    
+      <p>Click on the button to load result.html file:</p>
+        
+      <div id="stage" style="background-color:#EC0000;">
+         STAGE
+      </div>
+        
+      <input type="button" id="firma" value="Load Data" />
+        
+   </body>
+    
+</html>

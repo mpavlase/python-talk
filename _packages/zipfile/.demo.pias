@@ -1,0 +1,338 @@
+{
+  "events": [
+    {
+      "act": "OPEN", 
+      "size": [
+        80, 
+        24
+      ], 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.09493613243103027
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.015987873077392578
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[36m.\u001b[0m\u001b[36m-\u001b[1m\u001b[30m(\u001b[1m\u001b[32m~/prace/documents/python-cli-pip-talk/_packages/zipfile\u001b[1m\u001b[30m)\u001b[0m\u001b[36m----\u001b[1m\u001b[30m(\u001b[1m\u001b[33mvenv\u001b[1m\u001b[30m)\u001b[0m\u001b[36m--\u001b[1m\u001b[37m\u07c2 master\u001b[0m\u001b[36m-\r\n\r\u001b[1m\u001b[36m`-\u001b[0m\u001b[36m-\u001b[1m\u001b[37m\u001b[1m\u001b[37m> \u001b[0m\u001b[39m\u001b[49m\u001b[K", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "READ", 
+      "data": "i", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mi", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "READ", 
+      "data": "p", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[1m\u001b[37mi\u001b[1m\u001b[37mp", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "READ", 
+      "data": "y", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37my", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "READ", 
+      "data": "t", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mt", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "READ", 
+      "data": "h", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mh", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\t", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.04185795783996582
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mon \u001b[0m", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[0m\u001b[39m\u001b[39m \b\r\r\n", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.16803693771362305
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "WARNING: Attempting to work in a virtualenv. If you encounter problems, please install IPython inside the virtualenv.\r\n", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.22721099853515625
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[?1034hPython 2.7.5 (default, Nov  3 2014, 14:33:39) \r\nType \"copyright\", \"credits\" or \"license\" for more information.\r\n\r\nIPython 0.13.2 -- An enhanced Interactive Python.\r\n?         -> Introduction and overview of IPython's features.\r\n%quickref -> Quick reference.\r\nhelp      -> Python's own help system.\r\nobject?   -> Details about 'object', use 'object??' for extra details.\r\n\r\n\u001b[0;32mIn [\u001b[1;32m1\u001b[0;32m]: \u001b[0m", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "from zipfile import ZipFile", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0020389556884765625
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n\u001b[0;32mIn [\u001b[1;32m2\u001b[0;32m]: \u001b[0m", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "zf = ZipFile('file.zip', 'r')", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0011129379272460938
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n\u001b[0;32mIn [\u001b[1;32m3\u001b[0;32m]: \u001b[0m", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "print zf.namelist()", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.00031685829162597656
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "['python.png', 'test']\r\n\r\n\u001b[0;32mIn [\u001b[1;32m4\u001b[0;32m]: \u001b[0m", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "info = zf.infolist()[0]", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0011620521545410156
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n\u001b[0;32mIn [\u001b[1;32m5\u001b[0;32m]: \u001b[0m", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "print info.filename", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\npython.png\r\n", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0003409385681152344
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n\u001b[0;32mIn [\u001b[1;32m6\u001b[0;32m]: \u001b[0m", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "print 'compres s.:', info.compress_size", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0007970333099365234
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "compres s.: 77300\r\n\r\n\u001b[0;32mIn [\u001b[1;32m7\u001b[0;32m]: \u001b[0m", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "print 'orig. size:', info.file_size", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\norig. size: 83564\r\n\r\n\u001b[0;32mIn [\u001b[1;32m8\u001b[0;32m]: \u001b[0m", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u0004", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\nDo you really want to exit ([y]/n)? ", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u0004", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.4041409492492676
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.00604701042175293
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[36m.\u001b[0m\u001b[36m-\u001b[1m\u001b[30m(\u001b[1m\u001b[32m~/prace/documents/python-cli-pip-talk/_packages/zipfile\u001b[1m\u001b[30m)\u001b[0m\u001b[36m----\u001b[1m\u001b[30m(\u001b[1m\u001b[33mvenv\u001b[1m\u001b[30m)\u001b[0m\u001b[36m--\u001b[1m\u001b[37m\u07c2 master\u001b[0m\u001b[36m-\r\n\r\u001b[1m\u001b[36m`-\u001b[0m\u001b[36m-\u001b[1m\u001b[37m\u001b[1m\u001b[37m> \u001b[0m\u001b[39m\u001b[49m\u001b[K", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u0004", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\r\n", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.09431290626525879
+    }, 
+    {
+      "act": "CLOSE", 
+      "term": "37c21ad05e0946e2bf7d5cff299b7238"
+    }
+  ], 
+  "shell": "/bin/zsh"
+}

@@ -1,0 +1,282 @@
+{
+  "events": [
+    {
+      "act": "OPEN", 
+      "size": [
+        80, 
+        24
+      ], 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.08625292778015137
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.014262914657592773
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[36m.\u001b[0m\u001b[36m-\u001b[1m\u001b[30m(\u001b[1m\u001b[32m~/prace/documents/python-cli-pip-talk/_packages/markdownify\u001b[1m\u001b[30m)\u001b[0m\u001b[36m-\r\n\r\u001b[1m\u001b[36m`-\u001b[0m\u001b[36m-\u001b[1m\u001b[37m\u001b[1m\u001b[37m> \u001b[0m\u001b[39m\u001b[49m\u001b[K", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "READ", 
+      "data": "i", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mi", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "READ", 
+      "data": "p", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[1m\u001b[37mi\u001b[1m\u001b[37mp", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "READ", 
+      "data": "y", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37my", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "READ", 
+      "data": "t", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mt", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "READ", 
+      "data": "h", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mh", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\t", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.03792595863342285
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mon \u001b[0m", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[0m\u001b[39m\u001b[39m \b\r\r\n", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.1864020824432373
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "WARNING: Attempting to work in a virtualenv. If you encounter problems, please install IPython inside the virtualenv.\r\n", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.24686002731323242
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[?1034hPython 2.7.5 (default, Nov  3 2014, 14:33:39) \r\nType \"copyright\", \"credits\" or \"license\" for more information.\r\n\r\nIPython 0.13.2 -- An enhanced Interactive Python.\r\n?         -> Introduction and overview of IPython's features.\r\n%quickref -> Quick reference.\r\nhelp      -> Python's own help system.\r\nobject?   -> Details about 'object', use 'object??' for extra details.\r\n\r\n\u001b[0;32mIn [\u001b[1;32m1\u001b[0;32m]: \u001b[0m", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "from markdownify import markdownify", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.062397003173828125
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n\u001b[0;32mIn [\u001b[1;32m2\u001b[0;32m]: \u001b[0m", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "with open('example.html') as f:", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n\u001b[0;32m   ...: \u001b[0m    ", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "lines = ''.join(f.readlines())", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n\u001b[0;32m   ...: \u001b[0m    ", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "md = markdownify(lines)", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n\u001b[0;32m   ...: \u001b[0m    ", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "print md", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n\u001b[0;32m   ...: \u001b[0m    ", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.025274038314819336
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "This is big title\r\n=================\r\n\r\n ... and some subtitle\r\n---------------------\r\n\r\n Ordinary paragraph.\r\n\r\n ![](https://cdn4.iconfinder.com/data/icons/customicondesignoffice2/128/success.png \"Image\")\r\n\r\n List of list:\r\n\r\n  * first\r\n * second\r\n\t + inner\r\n\t + more inner\r\n\t  \r\n * outer\r\n  \r\n>  Quote of something important\r\n> \r\n>  \r\n\r\n\u001b[0;32mIn [\u001b[1;32m3\u001b[0;32m]: \u001b[0m", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u0004", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\nDo you really want to exit ([y]/n)? ", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u0004", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.414154052734375
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.008830070495605469
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[36m.\u001b[0m\u001b[36m-\u001b[1m\u001b[30m(\u001b[1m\u001b[32m~/prace/documents/python-cli-pip-talk/_packages/markdownify\u001b[1m\u001b[30m)\u001b[0m\u001b[36m-\r\n\r\u001b[1m\u001b[36m`-\u001b[0m\u001b[36m-\u001b[1m\u001b[37m\u001b[1m\u001b[37m> \u001b[0m\u001b[39m\u001b[49m\u001b[K", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u0004", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\r\n", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.08803606033325195
+    }, 
+    {
+      "act": "CLOSE", 
+      "term": "677daa50be654790b8da45fd9e0b4e40"
+    }
+  ], 
+  "shell": "/bin/zsh"
+}

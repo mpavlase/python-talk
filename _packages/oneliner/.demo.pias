@@ -1,0 +1,2970 @@
+{
+  "events": [
+    {
+      "act": "OPEN", 
+      "size": [
+        105, 
+        24
+      ], 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.09398102760314941
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                        \r \r", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.015035867691040039
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[36m.\u001b[0m\u001b[36m-\u001b[1m\u001b[30m(\u001b[1m\u001b[32m~/prace/documents/python-cli-pip-talk/_packages/oneliner\u001b[1m\u001b[30m)\u001b[0m\u001b[36m----\u001b[1m\u001b[30m(\u001b[1m\u001b[33mvenv\u001b[1m\u001b[30m)\u001b[0m\u001b[36m--\u001b[1m\u001b[37m\u07c2 master\u001b[0m\u001b[36m--\u001b[1m\u001b[30m(\u001b[0m\u001b[36mmpavlase\u001b[1m\u001b[36m@\u001b[0m\u001b[36mkrakonosovo\u001b[1m\u001b[30m)\u001b[0m\u001b[36m-\r\n\r\u001b[1m\u001b[36m`-\u001b[0m\u001b[36m-\u001b[1m\u001b[37m\u001b[1m\u001b[37m> \u001b[0m\u001b[39m\u001b[49m\u001b[K", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "n", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mn", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "l", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[1m\u001b[37mn\u001b[1m\u001b[37ml", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "x", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mx", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "a", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ma", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "m", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mm", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "p", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mp", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "l", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ml", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": ".", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m.", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "p", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mp", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "y", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37my", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[0m\u001b[39m\r\r\n", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.01746678352355957
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "     1\t#!/usr/bin/env python\r\n       \r\n     2\tfrom SimpleXMLRPCServer import SimpleXMLRPCServer\r\n       \r\n     3\tserver = SimpleXMLRPCServer((\"localhost\", 8001))\r\n     4\t# example: pow(4) == 16\r\n     5\tserver.register_function(pow)\r\n     6\tserver.register_function(lambda x,y: x+y+123456, 'add')\r\n     7\tserver.register_multicall_functions()\r\n     8\tserver.serve_forever()\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                        \r \r", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0012700557708740234
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[36m.\u001b[0m\u001b[36m-\u001b[1m\u001b[30m(\u001b[1m\u001b[32m~/prace/documents/python-cli-pip-talk/_packages/oneliner\u001b[1m\u001b[30m)\u001b[0m\u001b[36m----\u001b[1m\u001b[30m(\u001b[1m\u001b[33mvenv\u001b[1m\u001b[30m)\u001b[0m\u001b[36m--\u001b[1m\u001b[37m\u07c2 master\u001b[0m\u001b[36m--\u001b[1m\u001b[30m(\u001b[0m\u001b[36mmpavlase\u001b[1m\u001b[36m@\u001b[0m\u001b[36mkrakonosovo\u001b[1m\u001b[30m)\u001b[0m\u001b[36m-\r\n\r\u001b[1m\u001b[36m`-\u001b[0m\u001b[36m-\u001b[1m\u001b[37m\u001b[1m\u001b[37m> \u001b[0m\u001b[39m\u001b[49m\u001b[K", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "p", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mp", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "y", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[1m\u001b[37mp\u001b[1m\u001b[37my", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "t", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mt", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "h", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mh", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "o", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mo", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "n", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mn", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "-", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m-", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "m", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mm", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "o", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mo", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "n", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mn", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "l", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ml", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "i", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mi", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "n", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mn", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "r", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mr", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "-", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m-", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "n", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mn", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "'", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m'", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\"", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m\"", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "%", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m%", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "6", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m6", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "d", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37md", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "%", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m%", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "s", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ms", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\"", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m\"", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "%", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m%", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "(", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m(", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "N", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mN", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "R", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mR", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": ",", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m,", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "_", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m_", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": ")", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m)", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "'", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m'", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "x", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mx", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "a", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ma", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "m", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mm", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "p", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mp", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "l", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ml", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": ".", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m.", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "p", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mp", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "y", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37my", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[0m\u001b[39m\r\r\n", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.050286054611206055
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "     1 #!/usr/bin/env python\r\n     2 \r\n     3 from SimpleXMLRPCServer import SimpleXMLRPCServer\r\n     4 \r\n     5 server = SimpleXMLRPCServer((\"localhost\", 8001))\r\n     6 # example: pow(4) == 16\r\n     7 server.register_function(pow)\r\n     8 server.register_function(lambda x,y: x+y+123456, 'add')\r\n     9 server.register_multicall_functions()\r\n    10 server.serve_forever()\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                        \r \r", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0011050701141357422
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[36m.\u001b[0m\u001b[36m-\u001b[1m\u001b[30m(\u001b[1m\u001b[32m~/prace/documents/python-cli-pip-talk/_packages/oneliner\u001b[1m\u001b[30m)\u001b[0m\u001b[36m----\u001b[1m\u001b[30m(\u001b[1m\u001b[33mvenv\u001b[1m\u001b[30m)\u001b[0m\u001b[36m--\u001b[1m\u001b[37m\u07c2 master\u001b[0m\u001b[36m--\u001b[1m\u001b[30m(\u001b[0m\u001b[36mmpavlase\u001b[1m\u001b[36m@\u001b[0m\u001b[36mkrakonosovo\u001b[1m\u001b[30m)\u001b[0m\u001b[36m-\r\n\r\u001b[1m\u001b[36m`-\u001b[0m\u001b[36m-\u001b[1m\u001b[37m\u001b[1m\u001b[37m> \u001b[0m\u001b[39m\u001b[49m\u001b[K", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "p", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mp", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "y", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[1m\u001b[37mp\u001b[1m\u001b[37my", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "t", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mt", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "h", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mh", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "o", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mo", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "n", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mn", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "-", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m-", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "m", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mm", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "o", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mo", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "n", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mn", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "l", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ml", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "i", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mi", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "n", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mn", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "r", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mr", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "-", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m-", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "n", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mn", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "'", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m'", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\"", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m\"", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "%", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m%", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "s", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ms", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "%", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m%", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "6", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m6", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "d", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37md", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "%", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m%", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "s", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ms", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\"", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m\"", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "%", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m%", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "(", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m(", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "F", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mF", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "N", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mN", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": ",", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m,", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "N", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mN", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "R", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mR", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": ",", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m,", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "_", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m_", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": ")", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m)", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "'", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m'", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "x", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mx", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "a", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ma", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "m", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mm", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "p", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mp", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "l", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ml", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": ".", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m.", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "p", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mp", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "y", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37my", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[0m\u001b[39m\r\r\n", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.03678417205810547
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "example.py      1 #!/usr/bin/env python\r\nexample.py      2 \r\nexample.py      3 from SimpleXMLRPCServer import SimpleXMLRPCServer\r\nexample.py      4 \r\nexample.py      5 server = SimpleXMLRPCServer((\"localhost\", 8001))\r\nexample.py      6 # example: pow(4) == 16\r\nexample.py      7 server.register_function(pow)\r\nexample.py      8 server.register_function(lambda x,y: x+y+123456, 'add')\r\nexample.py      9 server.register_multicall_functions()\r\nexample.py     10 server.serve_forever()\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                        \r \r\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[36m.\u001b[0m\u001b[36m-\u001b[1m\u001b[30m(\u001b[1m\u001b[32m~/prace/documents/python-cli-pip-talk/_packages/oneliner\u001b[1m\u001b[30m)\u001b[0m\u001b[36m----\u001b[1m\u001b[30m(\u001b[1m\u001b[33mvenv\u001b[1m\u001b[30m)\u001b[0m\u001b[36m--\u001b[1m\u001b[37m\u07c2 master\u001b[0m\u001b[36m--\u001b[1m\u001b[30m(\u001b[0m\u001b[36mmpavlase\u001b[1m\u001b[36m@\u001b[0m\u001b[36mkrakonosovo\u001b[1m\u001b[30m)\u001b[0m\u001b[36m-\r\n\r\u001b[1m\u001b[36m`-\u001b[0m\u001b[36m-\u001b[1m\u001b[37m\u001b[1m\u001b[37m> \u001b[0m\u001b[39m\u001b[49m\u001b[K", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "p", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mp", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "y", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[1m\u001b[37mp\u001b[1m\u001b[37my", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "t", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mt", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "h", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mh", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "o", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mo", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "n", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mn", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "-", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m-", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "m", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mm", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "o", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mo", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "n", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mn", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "l", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ml", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "i", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mi", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "n", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mn", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "r", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mr", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "-", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m-", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "n", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mn", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "'", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m'", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\"", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m\"", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "%", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m%", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "6", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m6", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "d", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37md", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "%", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m%", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "s", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ms", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\"", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m\"", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "%", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m%", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "(", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m(", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "N", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mN", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "R", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mR", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": ",", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m,", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "_", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m_", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": ".", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m.", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "u", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mu", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "p", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mp", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "p", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mp", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "r", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mr", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "(", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m(", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": ")", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m)", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": ")", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m)", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "'", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m'", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "x", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mx", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "a", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ma", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "m", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mm", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "p", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mp", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "l", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ml", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": ".", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m.", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "p", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mp", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "y", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37my", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[0m\u001b[39m\r\r\n", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.04585909843444824
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "     1 #!/USR/BIN/ENV PYTHON\r\n     2 \r\n     3 FROM SIMPLEXMLRPCSERVER IMPORT SIMPLEXMLRPCSERVER\r\n     4 \r\n     5 SERVER = SIMPLEXMLRPCSERVER((\"LOCALHOST\", 8001))\r\n     6 # EXAMPLE: POW(4) == 16\r\n     7 SERVER.REGISTER_FUNCTION(POW)\r\n     8 SERVER.REGISTER_FUNCTION(LAMBDA X,Y: X+Y+123456, 'ADD')\r\n     9 SERVER.REGISTER_MULTICALL_FUNCTIONS()\r\n    10 SERVER.SERVE_FOREVER()\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                        \r \r", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.003223896026611328
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[36m.\u001b[0m\u001b[36m-\u001b[1m\u001b[30m(\u001b[1m\u001b[32m~/prace/documents/python-cli-pip-talk/_packages/oneliner\u001b[1m\u001b[30m)\u001b[0m\u001b[36m----\u001b[1m\u001b[30m(\u001b[1m\u001b[33mvenv\u001b[1m\u001b[30m)\u001b[0m\u001b[36m--\u001b[1m\u001b[37m\u07c2 master\u001b[0m\u001b[36m--\u001b[1m\u001b[30m(\u001b[0m\u001b[36mmpavlase\u001b[1m\u001b[36m@\u001b[0m\u001b[36mkrakonosovo\u001b[1m\u001b[30m)\u001b[0m\u001b[36m-\r\n\r\u001b[1m\u001b[36m`-\u001b[0m\u001b[36m-\u001b[1m\u001b[37m\u001b[1m\u001b[37m> \u001b[0m\u001b[39m\u001b[49m\u001b[K", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "p", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mp", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "y", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[1m\u001b[37mp\u001b[1m\u001b[37my", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "t", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mt", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "h", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mh", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "o", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mo", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "n", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mn", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "-", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m-", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "m", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mm", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "o", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mo", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "n", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mn", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "l", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ml", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "i", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mi", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "n", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mn", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "r", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mr", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "-", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m-", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "m", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mm", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "r", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mr", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "-", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m-", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "n", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mn", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\"", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m\"", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "'", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m'", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "%", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m%", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "6", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m6", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "d", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37md", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "%", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m%", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "s", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ms", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "'", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m'", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "%", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m%", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "(", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m(", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "N", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mN", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "R", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mR", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": ",", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m,", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "r", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mr", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": ".", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m.", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "s", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ms", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "u", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mu", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "b", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mb", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "(", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m(", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "'", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m'", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "[", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m[", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "0", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m0", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "-", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m-", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "9", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m9", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "]", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m]", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "+", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m+", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "'", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m'", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": ",", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m,", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "'", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m'", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "N", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mN", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "U", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mU", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "M", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mM", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "B", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mB", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "E", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mE", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "R", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mR", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "'", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m'", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": ",", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m,", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "_", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m_", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": ")", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m)", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": ")", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m)", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\"", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m\"", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "x", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mx", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "a", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ma", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "m", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mm", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "p", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mp", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "l", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ml", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": ".", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m.", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "p", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mp", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "y", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37my", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[0m\u001b[39m\r\r\n", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.05197501182556152
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "     1  #!/usr/bin/env python\r\n     2  \r\n     3  from SimpleXMLRPCServer import SimpleXMLRPCServer\r\n     4  \r\n     5  server = SimpleXMLRPCServer((\"localhost\", NUMBER))\r\n     6  # example: pow(NUMBER) == NUMBER\r\n     7  server.register_function(pow)\r\n     8  server.register_function(lambda x,y: x+y+NUMBER, 'add')\r\n     9  server.register_multicall_functions()\r\n    10  server.serve_forever()\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                        \r \r", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.002727985382080078
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[36m.\u001b[0m\u001b[36m-\u001b[1m\u001b[30m(\u001b[1m\u001b[32m~/prace/documents/python-cli-pip-talk/_packages/oneliner\u001b[1m\u001b[30m)\u001b[0m\u001b[36m----\u001b[1m\u001b[30m(\u001b[1m\u001b[33mvenv\u001b[1m\u001b[30m)\u001b[0m\u001b[36m--\u001b[1m\u001b[37m\u07c2 master\u001b[0m\u001b[36m--\u001b[1m\u001b[30m(\u001b[0m\u001b[36mmpavlase\u001b[1m\u001b[36m@\u001b[0m\u001b[36mkrakonosovo\u001b[1m\u001b[30m)\u001b[0m\u001b[36m-\r\n\r\u001b[1m\u001b[36m`-\u001b[0m\u001b[36m-\u001b[1m\u001b[37m\u001b[1m\u001b[37m> \u001b[0m\u001b[39m\u001b[49m\u001b[K", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u0004", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\r\n", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.09735608100891113
+    }, 
+    {
+      "act": "CLOSE", 
+      "term": "c5ccbe1e5171402e9153276237b7cfd1"
+    }
+  ], 
+  "shell": "/bin/zsh"
+}

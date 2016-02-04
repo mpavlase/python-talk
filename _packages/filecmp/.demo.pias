@@ -1,0 +1,268 @@
+{
+  "events": [
+    {
+      "act": "OPEN", 
+      "size": [
+        80, 
+        24
+      ], 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0831749439239502
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.015713930130004883
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[36m.\u001b[0m\u001b[36m-\u001b[1m\u001b[30m(\u001b[1m\u001b[32m~/prace/documents/python-cli-pip-talk/_packages/filecmp\u001b[1m\u001b[30m)\u001b[0m\u001b[36m----\u001b[1m\u001b[30m(\u001b[1m\u001b[33mvenv\u001b[1m\u001b[30m)\u001b[0m\u001b[36m--\u001b[1m\u001b[37m\u07c2 master\u001b[0m\u001b[36m-\r\n\r\u001b[1m\u001b[36m`-\u001b[0m\u001b[36m-\u001b[1m\u001b[37m\u001b[1m\u001b[37m> \u001b[0m\u001b[39m\u001b[49m\u001b[K", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "READ", 
+      "data": "i", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mi", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "READ", 
+      "data": "p", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[1m\u001b[37mi\u001b[1m\u001b[37mp", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "READ", 
+      "data": "y", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37my", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "READ", 
+      "data": "t", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mt", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "READ", 
+      "data": "h", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mh", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\t", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0421290397644043
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mon \u001b[0m", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[0m\u001b[39m\u001b[39m \b\r\r\n", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.172929048538208
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "WARNING: Attempting to work in a virtualenv. If you encounter problems, please install IPython inside the virtualenv.\r\n", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.31522393226623535
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[?1034hPython 2.7.5 (default, Nov  3 2014, 14:33:39) \r\nType \"copyright\", \"credits\" or \"license\" for more information.\r\n\r\nIPython 0.13.2 -- An enhanced Interactive Python.\r\n?         -> Introduction and overview of IPython's features.\r\n%quickref -> Quick reference.\r\nhelp      -> Python's own help system.\r\nobject?   -> Details about 'object', use 'object??' for extra details.\r\n\r\n\u001b[0;32mIn [\u001b[1;32m1\u001b[0;32m]: \u001b[0m", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "from filecmp import dircmp", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n\r\n\u001b[0;32mIn [\u001b[1;32m2\u001b[0;32m]: \u001b[0m", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "diff = dircmp('a', 'b')", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n\r\n\u001b[0;32mIn [\u001b[1;32m3\u001b[0;32m]: \u001b[0m", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "print 'right: ', diff.right_list", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\nright:  ['m.zip', 'talk.md']\r\n\r\n\u001b[0;32mIn [\u001b[1;32m4\u001b[0;32m]: \u001b[0m", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "print 'same files: ', diff.same_files", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0011360645294189453
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "same files:  ['talk.md']\r\n\r\n\u001b[0;32mIn [\u001b[1;32m5\u001b[0;32m]: \u001b[0m", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "diff.report()", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\ndiff a b\r\nOnly in a : ['Makefile', 'ugly.json']\r\nOnly in b : ['m.zip']\r\nIdentical files : ['talk.md']\r\n\r\n\u001b[0;32mIn [\u001b[1;32m6\u001b[0;32m]: \u001b[0m", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u0004", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\nDo you really want to exit ([y]/n)? ", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "y", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.3914661407470703
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.007462978363037109
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[36m.\u001b[0m\u001b[36m-\u001b[1m\u001b[30m(\u001b[1m\u001b[32m~/prace/documents/python-cli-pip-talk/_packages/filecmp\u001b[1m\u001b[30m)\u001b[0m\u001b[36m----\u001b[1m\u001b[30m(\u001b[1m\u001b[33mvenv\u001b[1m\u001b[30m)\u001b[0m\u001b[36m--\u001b[1m\u001b[37m\u07c2 master\u001b[0m\u001b[36m-\r\n\r\u001b[1m\u001b[36m`-\u001b[0m\u001b[36m-\u001b[1m\u001b[37m\u001b[1m\u001b[37m> \u001b[0m\u001b[39m\u001b[49m\u001b[K", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u0004", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\r\n", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.07996511459350586
+    }, 
+    {
+      "act": "CLOSE", 
+      "term": "463270710c2341afadbc47a15013c855"
+    }
+  ], 
+  "shell": "/bin/zsh"
+}

@@ -1,0 +1,1455 @@
+{
+  "events": [
+    {
+      "act": "OPEN", 
+      "size": [
+        80, 
+        24
+      ], 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.11612391471862793
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.02938103675842285
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[36m.\u001b[0m\u001b[36m-\u001b[1m\u001b[30m(\u001b[1m\u001b[32m~/prace/documents/python-cli-pip-talk/_packages/playitagainsam\u001b[1m\u001b[30m)\u001b[0m\u001b[36m-\r\n\r\u001b[1m\u001b[36m`-\u001b[0m\u001b[36m-\u001b[1m\u001b[37m\u001b[1m\u001b[37m> \u001b[0m\u001b[39m\u001b[49m\u001b[K", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "d", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37md", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "a", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[1m\u001b[37md\u001b[1m\u001b[37ma", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "t", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mt", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[0m\u001b[39m\r\r\n", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0009000301361083984
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Thu  4 Feb 11:55:31 CET 2016\r\n", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0004169940948486328
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0053288936614990234
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[36m.\u001b[0m\u001b[36m-\u001b[1m\u001b[30m(\u001b[1m\u001b[32m~/prace/documents/python-cli-pip-talk/_packages/playitagainsam\u001b[1m\u001b[30m)\u001b[0m\u001b[36m-\r\n\r\u001b[1m\u001b[36m`-\u001b[0m\u001b[36m-\u001b[1m\u001b[37m\u001b[1m\u001b[37m> \u001b[0m\u001b[39m\u001b[49m\u001b[K", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "c", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[1m\u001b[37me\u001b[1m\u001b[37mc", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "h", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mh", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "o", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mo", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\"", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m\"", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "Y", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mY", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "o", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mo", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "u", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mu", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "c", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mc", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "a", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ma", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "n", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mn", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "w", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mw", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "r", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mr", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "i", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mi", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "t", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mt", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "w", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mw", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "h", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mh", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "a", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ma", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "t", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mt", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "v", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mv", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "r", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mr", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "y", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37my", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "o", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mo", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "u", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mu", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "n", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mn", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "d", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37md", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "a", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ma", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "n", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mn", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "d", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37md", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "i", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mi", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "t", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mt", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "w", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mw", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "o", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mo", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "u", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mu", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "l", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ml", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "d", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37md", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "b", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mb", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "r", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mr", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "p", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mp", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "l", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ml", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "a", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ma", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "y", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37my", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "d", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37md", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "a", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ma", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "g", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mg", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "a", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ma", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "i", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mi", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "n", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mn", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": ".", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m.", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "A", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mA", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "l", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ml", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "s", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ms", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "o", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mo", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m \u001b[0m\u001b[39m \r\u001b[K", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "i", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mi", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "t", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[0m\u001b[39m\r\u001b[1m\u001b[37mi\u001b[1m\u001b[37mt", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "c", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mc", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "a", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ma", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "n", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mn", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "b", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mb", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "a", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ma", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "u", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mu", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "t", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mt", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "o", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mo", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "r", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mr", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "p", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mp", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "l", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ml", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "a", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ma", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "y", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37my", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "d", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37md", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "b", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mb", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "y", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37my", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "p", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mp", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "a", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ma", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "s", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ms", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "s", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ms", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "i", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mi", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "n", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mn", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "g", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mg", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "-", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m-", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "-", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m-", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "l", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ml", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "i", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mi", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "v", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mv", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "-", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m-", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "r", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mr", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "p", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mp", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "l", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ml", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "a", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ma", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "y", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37my", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "o", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mo", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "p", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mp", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "t", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mt", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "i", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mi", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "o", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mo", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "n", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mn", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": ".", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m.", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\"", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m\"", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[0m\u001b[39m\r\r\nYou can write whatever you need and it would be replayed again. Also it can be autoreplayed by passing --live-replay option.\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.005055904388427734
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[36m.\u001b[0m\u001b[36m-\u001b[1m\u001b[30m(\u001b[1m\u001b[32m~/prace/documents/python-cli-pip-talk/_packages/playitagainsam\u001b[1m\u001b[30m)\u001b[0m\u001b[36m-\r\n\r\u001b[1m\u001b[36m`-\u001b[0m\u001b[36m-\u001b[1m\u001b[37m\u001b[1m\u001b[37m> \u001b[0m\u001b[39m\u001b[49m\u001b[K", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u0004", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\r\n", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.07668304443359375
+    }, 
+    {
+      "act": "CLOSE", 
+      "term": "2bd8fcb4b7a04e6a8ba9bbfa4f66cac4"
+    }
+  ], 
+  "shell": "/bin/zsh"
+}

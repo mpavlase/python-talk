@@ -3,6 +3,11 @@ Resources for talk about Python CLI utilities and interesting pip packages
 
 Link to the session: [DevConf] (http://devconfcz2016.sched.org/event/5m08/cli-tools-in-python-interestinguseful-packages)
 
+## Author
+Martin Pavlásek
+ * email: mpavlase@redhat.com
+ * irc: mpavlase (freenode.net)
+
 ## Prepare your environment
 1. install `python-virtualenv` package by your system package manager i.e. `# dnf install python-virtualenv`
 2. Run this command:

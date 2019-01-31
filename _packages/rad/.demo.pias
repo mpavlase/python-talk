@@ -6,215 +6,692 @@
         80, 
         24
       ], 
-      "term": "0513e305be1a407392d9a8761022cab7"
+      "term": "13d33437042d40f2a34e84cab6e4307b"
     }, 
     {
       "act": "PAUSE", 
-      "duration": 0.13050198554992676
+      "duration": 0.10239696502685547
     }, 
     {
       "act": "WRITE", 
       "data": "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r", 
-      "term": "0513e305be1a407392d9a8761022cab7"
+      "term": "13d33437042d40f2a34e84cab6e4307b"
     }, 
     {
       "act": "PAUSE", 
-      "duration": 0.01731276512145996
+      "duration": 0.015697002410888672
     }, 
     {
       "act": "WRITE", 
       "data": "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[36m.\u001b[0m\u001b[36m-\u001b[1m\u001b[30m(\u001b[1m\u001b[32m~/prace/documents/python-cli-pip-talk/_packages/rad\u001b[1m\u001b[30m)\u001b[0m\u001b[36m----\u001b[1m\u001b[30m(\u001b[1m\u001b[33mvenv\u001b[1m\u001b[30m)\u001b[0m\u001b[36m--\u001b[1m\u001b[37m\u07c2 master\u001b[0m\u001b[36m-----\r\n\r\u001b[1m\u001b[36m`-\u001b[0m\u001b[36m-\u001b[1m\u001b[37m\u001b[1m\u001b[37m> \u001b[0m\u001b[39m\u001b[49m\u001b[K", 
-      "term": "0513e305be1a407392d9a8761022cab7"
+      "term": "13d33437042d40f2a34e84cab6e4307b"
     }, 
     {
       "act": "READ", 
       "data": "r", 
-      "term": "0513e305be1a407392d9a8761022cab7"
+      "term": "13d33437042d40f2a34e84cab6e4307b"
     }, 
     {
       "act": "WRITE", 
       "data": "\u001b[1m\u001b[37mr", 
-      "term": "0513e305be1a407392d9a8761022cab7"
+      "term": "13d33437042d40f2a34e84cab6e4307b"
     }, 
     {
       "act": "READ", 
       "data": "a", 
-      "term": "0513e305be1a407392d9a8761022cab7"
+      "term": "13d33437042d40f2a34e84cab6e4307b"
     }, 
     {
       "act": "WRITE", 
       "data": "\b\u001b[1m\u001b[37mr\u001b[1m\u001b[37ma", 
-      "term": "0513e305be1a407392d9a8761022cab7"
+      "term": "13d33437042d40f2a34e84cab6e4307b"
     }, 
     {
       "act": "READ", 
       "data": "d", 
-      "term": "0513e305be1a407392d9a8761022cab7"
+      "term": "13d33437042d40f2a34e84cab6e4307b"
     }, 
     {
       "act": "WRITE", 
       "data": "\u001b[1m\u001b[37md", 
-      "term": "0513e305be1a407392d9a8761022cab7"
+      "term": "13d33437042d40f2a34e84cab6e4307b"
     }, 
     {
       "act": "READ", 
       "data": " ", 
-      "term": "0513e305be1a407392d9a8761022cab7"
+      "term": "13d33437042d40f2a34e84cab6e4307b"
     }, 
     {
       "act": "WRITE", 
       "data": "\u001b[1m\u001b[37m ", 
-      "term": "0513e305be1a407392d9a8761022cab7"
+      "term": "13d33437042d40f2a34e84cab6e4307b"
     }, 
     {
       "act": "READ", 
       "data": "-", 
-      "term": "0513e305be1a407392d9a8761022cab7"
+      "term": "13d33437042d40f2a34e84cab6e4307b"
     }, 
     {
       "act": "WRITE", 
       "data": "\u001b[1m\u001b[37m-", 
-      "term": "0513e305be1a407392d9a8761022cab7"
+      "term": "13d33437042d40f2a34e84cab6e4307b"
     }, 
     {
       "act": "READ", 
       "data": "n", 
-      "term": "0513e305be1a407392d9a8761022cab7"
+      "term": "13d33437042d40f2a34e84cab6e4307b"
     }, 
     {
       "act": "WRITE", 
       "data": "\u001b[1m\u001b[37mn", 
-      "term": "0513e305be1a407392d9a8761022cab7"
+      "term": "13d33437042d40f2a34e84cab6e4307b"
     }, 
     {
       "act": "READ", 
       "data": "\r", 
-      "term": "0513e305be1a407392d9a8761022cab7"
+      "term": "13d33437042d40f2a34e84cab6e4307b"
     }, 
     {
       "act": "WRITE", 
       "data": "\u001b[0m\u001b[39m\r\r\n", 
-      "term": "0513e305be1a407392d9a8761022cab7"
+      "term": "13d33437042d40f2a34e84cab6e4307b"
     }, 
     {
       "act": "PAUSE", 
-      "duration": 0.2240149974822998
+      "duration": 0.17934608459472656
     }, 
     {
       "act": "WRITE", 
       "data": "Colorer name for this rule: ", 
-      "term": "0513e305be1a407392d9a8761022cab7"
+      "term": "13d33437042d40f2a34e84cab6e4307b"
     }, 
     {
       "act": "ECHO", 
       "data": "hex", 
-      "term": "0513e305be1a407392d9a8761022cab7"
+      "term": "13d33437042d40f2a34e84cab6e4307b"
     }, 
     {
       "act": "READ", 
       "data": "\r", 
-      "term": "0513e305be1a407392d9a8761022cab7"
+      "term": "13d33437042d40f2a34e84cab6e4307b"
     }, 
     {
       "act": "WRITE", 
       "data": "\r\nPattern to match: ", 
-      "term": "0513e305be1a407392d9a8761022cab7"
+      "term": "13d33437042d40f2a34e84cab6e4307b"
     }, 
     {
       "act": "ECHO", 
       "data": "[0-9a-f]", 
-      "term": "0513e305be1a407392d9a8761022cab7"
+      "term": "13d33437042d40f2a34e84cab6e4307b"
     }, 
     {
       "act": "READ", 
       "data": "\r", 
-      "term": "0513e305be1a407392d9a8761022cab7"
+      "term": "13d33437042d40f2a34e84cab6e4307b"
     }, 
     {
       "act": "WRITE", 
       "data": "\r\nForeground color [white]: ", 
-      "term": "0513e305be1a407392d9a8761022cab7"
-    }, 
-    {
-      "act": "ECHO", 
-      "data": "white", 
-      "term": "0513e305be1a407392d9a8761022cab7"
+      "term": "13d33437042d40f2a34e84cab6e4307b"
     }, 
     {
       "act": "READ", 
       "data": "\r", 
-      "term": "0513e305be1a407392d9a8761022cab7"
+      "term": "13d33437042d40f2a34e84cab6e4307b"
     }, 
     {
       "act": "WRITE", 
       "data": "\r\nBackground color [black]: ", 
-      "term": "0513e305be1a407392d9a8761022cab7"
+      "term": "13d33437042d40f2a34e84cab6e4307b"
     }, 
     {
       "act": "ECHO", 
       "data": "red", 
-      "term": "0513e305be1a407392d9a8761022cab7"
+      "term": "13d33437042d40f2a34e84cab6e4307b"
     }, 
     {
       "act": "READ", 
       "data": "\r", 
-      "term": "0513e305be1a407392d9a8761022cab7"
+      "term": "13d33437042d40f2a34e84cab6e4307b"
     }, 
     {
       "act": "WRITE", 
       "data": "\r\nStyle [bright]: ", 
-      "term": "0513e305be1a407392d9a8761022cab7"
+      "term": "13d33437042d40f2a34e84cab6e4307b"
     }, 
     {
       "act": "ECHO", 
       "data": "normal", 
-      "term": "0513e305be1a407392d9a8761022cab7"
+      "term": "13d33437042d40f2a34e84cab6e4307b"
     }, 
     {
       "act": "READ", 
       "data": "\r", 
-      "term": "0513e305be1a407392d9a8761022cab7"
+      "term": "13d33437042d40f2a34e84cab6e4307b"
     }, 
     {
       "act": "WRITE", 
       "data": "\r\n", 
-      "term": "0513e305be1a407392d9a8761022cab7"
+      "term": "13d33437042d40f2a34e84cab6e4307b"
     }, 
     {
       "act": "PAUSE", 
-      "duration": 0.021712064743041992
+      "duration": 0.020830869674682617
     }, 
     {
       "act": "WRITE", 
       "data": "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r", 
-      "term": "0513e305be1a407392d9a8761022cab7"
+      "term": "13d33437042d40f2a34e84cab6e4307b"
     }, 
     {
       "act": "PAUSE", 
-      "duration": 0.0060579776763916016
+      "duration": 0.006277799606323242
     }, 
     {
       "act": "WRITE", 
       "data": "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[36m.\u001b[0m\u001b[36m-\u001b[1m\u001b[30m(\u001b[1m\u001b[32m~/prace/documents/python-cli-pip-talk/_packages/rad\u001b[1m\u001b[30m)\u001b[0m\u001b[36m----\u001b[1m\u001b[30m(\u001b[1m\u001b[33mvenv\u001b[1m\u001b[30m)\u001b[0m\u001b[36m--\u001b[1m\u001b[37m\u07c2 master\u001b[0m\u001b[36m-----\r\n\r\u001b[1m\u001b[36m`-\u001b[0m\u001b[36m-\u001b[1m\u001b[37m\u001b[1m\u001b[37m> \u001b[0m\u001b[39m\u001b[49m\u001b[K", 
-      "term": "0513e305be1a407392d9a8761022cab7"
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": "r", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mr", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": "a", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[1m\u001b[37mr\u001b[1m\u001b[37ma", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": "d", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37md", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": "-", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m-", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": "l", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ml", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[0m\u001b[39m\r\r\n", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.1706380844116211
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "hex\r\n===\r\n", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0026581287384033203
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Rule /[0-9a-f]/ -> fore:WHITE back:RED style:NORMAL\r\n\r\n", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.010519027709960938
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0034089088439941406
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[36m.\u001b[0m\u001b[36m-\u001b[1m\u001b[30m(\u001b[1m\u001b[32m~/prace/documents/python-cli-pip-talk/_packages/rad\u001b[1m\u001b[30m)\u001b[0m\u001b[36m----\u001b[1m\u001b[30m(\u001b[1m\u001b[33mvenv\u001b[1m\u001b[30m)\u001b[0m\u001b[36m--\u001b[1m\u001b[37m\u07c2 master\u001b[0m\u001b[36m-----\r\n\r\u001b[1m\u001b[36m`-\u001b[0m\u001b[36m-\u001b[1m\u001b[37m\u001b[1m\u001b[37m> \u001b[0m\u001b[39m\u001b[49m\u001b[K", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": "c", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[1m\u001b[37me\u001b[1m\u001b[37mc", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": "h", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mh", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": "o", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mo", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": "s", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ms", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": "n", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mn", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": "t", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mt", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": "n", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mn", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": "c", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mc", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": "a", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ma", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": "n", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mn", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": "d", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37md", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": "5", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m5", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": "n", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mn", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": "u", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mu", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": "m", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mm", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": "b", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mb", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": "r", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mr", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": "|", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m|", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": "r", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mr", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": "a", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37ma", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": "d", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37md", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": " ", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37m ", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": "h", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mh", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": "x", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mx", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[0m\u001b[39m\r\r\n", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.1846020221710205
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "s\u001b[37m\u001b[41m\u001b[22me\u001b[39m\u001b[49m\u001b[22mnt\u001b[37m\u001b[41m\u001b[22me\u001b[39m\u001b[49m\u001b[22mn\u001b[37m\u001b[41m\u001b[22mc\u001b[39m\u001b[49m\u001b[22m\u001b[37m\u001b[41m\u001b[22me\u001b[39m\u001b[49m\u001b[22m\u001b[37m\u001b[41m\u001b[22ma\u001b[39m\u001b[49m\u001b[22mn\u001b[37m\u001b[41m\u001b[22md\u001b[39m\u001b[49m\u001b[22m\u001b[37m\u001b[41m\u001b[22m5\u001b[39m\u001b[49m\u001b[22mnum\u001b[37m\u001b[41m\u001b[22mb\u001b[39m\u001b[49m\u001b[22m\u001b[37m\u001b[41m\u001b[22me\u001b[39m\u001b[49m\u001b[22mr\r\n", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.005761861801147461
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[0m", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0024340152740478516
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.004223823547363281
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[36m.\u001b[0m\u001b[36m-\u001b[1m\u001b[30m(\u001b[1m\u001b[32m~/prace/documents/python-cli-pip-talk/_packages/rad\u001b[1m\u001b[30m)\u001b[0m\u001b[36m----\u001b[1m\u001b[30m(\u001b[1m\u001b[33mvenv\u001b[1m\u001b[30m)\u001b[0m\u001b[36m--\u001b[1m\u001b[37m\u07c2 master\u001b[0m\u001b[36m-----\r\n\r\u001b[1m\u001b[36m`-\u001b[0m\u001b[36m-\u001b[1m\u001b[37m\u001b[1m\u001b[37m> \u001b[0m\u001b[39m\u001b[49m\u001b[K", 
+      "term": "13d33437042d40f2a34e84cab6e4307b"
     }, 
     {
       "act": "READ", 
       "data": "\u0004", 
-      "term": "0513e305be1a407392d9a8761022cab7"
+      "term": "13d33437042d40f2a34e84cab6e4307b"
     }, 
     {
       "act": "WRITE", 
       "data": "\r\r\n", 
-      "term": "0513e305be1a407392d9a8761022cab7"
+      "term": "13d33437042d40f2a34e84cab6e4307b"
     }, 
     {
       "act": "PAUSE", 
-      "duration": 0.10511302947998047
+      "duration": 0.09206104278564453
     }, 
     {
       "act": "CLOSE", 
-      "term": "0513e305be1a407392d9a8761022cab7"
+      "term": "13d33437042d40f2a34e84cab6e4307b"
     }
   ], 
   "shell": "/bin/zsh"

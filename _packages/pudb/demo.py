@@ -6,8 +6,8 @@ class MyClass(object):
     def do(self, param):
         s = self.prop + param
         d = {'param': param, 'prop': self.prop, 'list': [0, 1, 3, 5, 7]}
-        s = self.reverse(s, 1, 2, 3)
-        #s = self.reverse(s)
+        #s = self.reverse(s, 1, 2, 3)
+        s = self.reverse(s)
         return s
 
     def reverse(self, param):

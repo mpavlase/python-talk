@@ -44,7 +44,7 @@ $ python -m json.tool ugly.json
 
 ## What can you expect?
 * demo of some existings handy (often CLI) tools
-* as-short-as-necessary introduction to **pip**, **PyPI** and **virtualenv**
+* as-short-as-necessary introduction to **pip** and **virtualenv**
 * it's not necessary know the language
 
 What **do not** expect:
@@ -53,20 +53,16 @@ What **do not** expect:
 ## Try it on your own!
 
 Everything for this workshop is available in:
-~~~ bash
+~~~
 http://github.com/mpavlase/python-talk
 ~~~
-Prepare workplace:
-~~~
-cd python-talk
-./prepare-env.sh
-~~~
+Handy stuff around:
+* terminal
+* internet connectivity
 
 ## PyPI/pip
 PyPI = Python Package Index
-repository of software
-
-for Python
+repository of software for the Python
 
 ~~~
 $ sudo pip install odpdown
@@ -117,8 +113,8 @@ $ pip install odpdown
 # File manipulation
 
 ## zipfile
-Basic operations with ZIP archives. [pypi]
-~~~
+Basic operations with ZIP archives. [builtin]
+~~~ shell
 $ python -m zipfile -c my.zip file [...]
 $ python -m zipfile -e my.zip dest-folder
 $ python -m zipfile -l my.zip
@@ -132,7 +128,7 @@ with ZipFile('my.zip', 'w') as myzip:
 ~~~
 
 ## filecmp
-Compare two directories. [builtin]
+Compare two directories. [pypi]
 ~~~ bash
 python -m filecmp dir1 dir2
 ~~~
@@ -296,7 +292,7 @@ $ pias play --auto-type 50 \
 # System utilities
 ## copypaste
 Platform independent copy + paste. [pypi]
-~~~
+~~~ bash
 $ date | copy
 $ paste
 ~~~

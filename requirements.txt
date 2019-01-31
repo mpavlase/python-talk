@@ -1,3 +1,5 @@
+zipfile
+filecmp
 markdown
 markdownify
 oneliner
@@ -7,7 +9,7 @@ pudb
 notebook
 randomdata
 fake-factory
-python-pydown
+pydown
 odpdown
 playitagainsam
 copypaste
@@ -18,4 +20,3 @@ sigal
 pychalk
 rad
 ConwayCPU
-lxml

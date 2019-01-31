@@ -1,0 +1,337 @@
+{
+  "events": [
+    {
+      "act": "OPEN", 
+      "size": [
+        144, 
+        36
+      ], 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.1391279697418213
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                               \r \r", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.01827716827392578
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[36m.\u001b[0m\u001b[36m-\u001b[1m\u001b[30m(\u001b[1m\u001b[32m~/prace/documents/python-cli-pip-talk/_packages/playitagainsam\u001b[1m\u001b[30m)\u001b[0m\u001b[36m----\u001b[1m\u001b[30m(\u001b[1m\u001b[33mvenv\u001b[1m\u001b[30m)\u001b[0m\u001b[36m--\u001b[1m\u001b[37m\u07c2 master\u001b[0m\u001b[36m-----------------------------------\u001b[1m\u001b[30m(\u001b[0m\u001b[36mmpavlase\u001b[1m\u001b[36m@\u001b[0m\u001b[36mkrakonosovo\u001b[1m\u001b[30m)\u001b[0m\u001b[36m-\r\n\r\u001b[1m\u001b[36m`-\u001b[0m\u001b[36m-\u001b[1m\u001b[37m\u001b[1m\u001b[37m> \u001b[0m\u001b[39m\u001b[49m\u001b[K", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "READ", 
+      "data": "d", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37md", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "READ", 
+      "data": "a", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[1m\u001b[37md\u001b[1m\u001b[37ma", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "READ", 
+      "data": "t", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mt", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "READ", 
+      "data": "e", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37me", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[0m\u001b[39m\r\r\n", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.02046489715576172
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Thu  4 Feb 16:59:59 CET 2016\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                               \r \r", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.006929874420166016
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[36m.\u001b[0m\u001b[36m-\u001b[1m\u001b[30m(\u001b[1m\u001b[32m~/prace/documents/python-cli-pip-talk/_packages/playitagainsam\u001b[1m\u001b[30m)\u001b[0m\u001b[36m----\u001b[1m\u001b[30m(\u001b[1m\u001b[33mvenv\u001b[1m\u001b[30m)\u001b[0m\u001b[36m--\u001b[1m\u001b[37m\u07c2 master\u001b[0m\u001b[36m-----------------------------------\u001b[1m\u001b[30m(\u001b[0m\u001b[36mmpavlase\u001b[1m\u001b[36m@\u001b[0m\u001b[36mkrakonosovo\u001b[1m\u001b[30m)\u001b[0m\u001b[36m-\r\n\r\u001b[1m\u001b[36m`-\u001b[0m\u001b[36m-\u001b[1m\u001b[37m\u001b[1m\u001b[37m> \u001b[0m\u001b[39m\u001b[49m\u001b[K", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "READ", 
+      "data": "i", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mi", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "READ", 
+      "data": "p", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[1m\u001b[37mi\u001b[1m\u001b[37mp", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "READ", 
+      "data": "y", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37my", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "READ", 
+      "data": "t", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mt", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\t", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.054589033126831055
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[37mhon", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[0m\u001b[39m\r\r\n", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.5726768970489502
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[?1034hPython 2.7.5 (default, Nov  3 2014, 14:33:39) \r\nType \"copyright\", \"credits\" or \"license\" for more information.\r\n\r\nIPython 4.1.1 -- An enhanced Interactive Python.\r\n?         -> Introduction and overview of IPython's features.\r\n%quickref -> Quick reference.\r\nhelp      -> Python's own help system.\r\nobject?   -> Details about 'object', use 'object??' for extra details.\r\n\r\n\u001b[0;32mIn [\u001b[1;32m1\u001b[0;32m]: \u001b[0m", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "rpint", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u007f", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[K", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u007f", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[K", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u007f", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[K", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u007f", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[K", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u007f", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[K", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u007f", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u0007", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "print :", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u007f", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[K", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "\"ahoj\"", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\nahoj\r\n\r\n\u001b[0;32mIn [\u001b[1;32m2\u001b[0;32m]: \u001b[0m", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u0004", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\nDo you really want to exit ([y]/n)? ", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "y", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.4045851230621338
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                               \r \r", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0031599998474121094
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[1m\u001b[36m.\u001b[0m\u001b[36m-\u001b[1m\u001b[30m(\u001b[1m\u001b[32m~/prace/documents/python-cli-pip-talk/_packages/playitagainsam\u001b[1m\u001b[30m)\u001b[0m\u001b[36m----\u001b[1m\u001b[30m(\u001b[1m\u001b[33mvenv\u001b[1m\u001b[30m)\u001b[0m\u001b[36m--\u001b[1m\u001b[37m\u07c2 master\u001b[0m\u001b[36m-----------------------------------\u001b[1m\u001b[30m(\u001b[0m\u001b[36mmpavlase\u001b[1m\u001b[36m@\u001b[0m\u001b[36mkrakonosovo\u001b[1m\u001b[30m)\u001b[0m\u001b[36m-\r\n\r\u001b[1m\u001b[36m`-\u001b[0m\u001b[36m-\u001b[1m\u001b[37m\u001b[1m\u001b[37m> \u001b[0m\u001b[39m\u001b[49m\u001b[K", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u0004", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.00010609626770019531
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0895841121673584
+    }, 
+    {
+      "act": "CLOSE", 
+      "term": "f902aea2f3f34b86a4f23c115f57ade5"
+    }
+  ], 
+  "shell": "/bin/zsh"
+}
